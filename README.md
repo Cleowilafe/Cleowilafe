@@ -2,16 +2,15 @@
 
 # C L E O W I L A F E
 
-### `Programming • Computational Modeling • Engineering`
+### `Programming · Computational Modeling · Engineering`
 
 <p>
   <a href="https://github.com/cleowilafe">
-    <img src="https://img.shields.io/badge/GitHub-Cleowilafe-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge">
+  <a href="https://github.com/cleowilafe?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-2f363d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -20,9 +19,21 @@
 
 <div align="center">
 
-## `TECH STACK`
+Programming, mathematics and engineering come together in my projects.
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,git,github,linux,vscode,latex" />
+I enjoy building things from the fundamentals — from algorithms and
+data structures to numerical methods, computational models and
+engineering-oriented software.
+
+</div>
+
+<br>
+
+<div align="center">
+
+## `TECHNOLOGIES`
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,git,github,linux,latex,vscode" />
 
 </div>
 
@@ -33,7 +44,7 @@
 ## `LANGUAGES`
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleowilafe&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleowilafe&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"
   height="250"
 />
 
@@ -43,23 +54,93 @@
 
 <div align="center">
 
-## `WHAT I BUILD`
+## `PROJECTS`
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### [DataStructures](https://github.com/cleowilafe/DataStructures)
+
+Data structures and algorithm implementations.
+
+`JavaScript`
+
+</td>
+
+<td align="center" width="50%">
+
+### [Numerical-methods](https://github.com/cleowilafe/Numerical-methods)
+
+Numerical methods for mathematical and engineering problems.
+
+`MATLAB`
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### [Remote-Access-Framework](https://github.com/cleowilafe/Remote-Access-Framework)
+
+Software development and remote-access concepts.
+
+`Python`
+
+</td>
+
+<td align="center" width="50%">
+
+### [Scanner](https://github.com/cleowilafe/Scanner)
+
+Programming and system-level concepts.
+
+`C++`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ALGORITHMS        DATA STRUCTURES       SOFTWARE          │
-│        │                   │                  │              │
-│        └───────────────────┼──────────────────┘              │
-│                            │                                 │
-│                            ▼                                 │
-│                   COMPUTATIONAL METHODS                      │
-│                            │                                 │
-│             ┌──────────────┴──────────────┐                  │
-│             ▼                             ▼                  │
-│     NUMERICAL METHODS              ENGINEERING               │
-│                                     SIMULATION                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+---
+
+<div align="center">
+
+## `GITHUB`
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=cleowilafe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  height="180"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=cleowilafe&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=cleowilafe&theme=tokyo-night&hide_border=true&area=true"
+  width="90%"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `ENGINEERING × MATHEMATICS × SOFTWARE`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleowilafe?tab=repositories)
+
+</div>
