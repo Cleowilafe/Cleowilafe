@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://github.com/cleowilafe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/cleowilafe?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-2f363d?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Repositories-2f363d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -17,62 +17,102 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+<div align="center">
 
-I'm a **Mechanical Engineering undergraduate at the Federal University of Piauí (UFPI)** interested in programming, computational modeling, numerical methods and engineering simulation.
+Programming, mathematics and engineering come together in my projects.
 
-I use this profile to share projects and studies combining **engineering, mathematics and software**.
+I enjoy building things from the fundamentals — from algorithms and
+data structures to numerical methods, computational models and
+engineering-oriented software.
 
----
+</div>
 
-### 🤖 Technologies
+<br>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px" title="C++">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="30px" title="MATLAB">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" title="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" title="Linux">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="30px" title="LaTeX">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px" title="VS Code">
-</p>
+<div align="center">
 
----
+## `TECHNOLOGIES`
 
-### 🚀 Projects
+<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,git,github,linux,latex,vscode" />
 
-* **[DataStructures](https://github.com/cleowilafe/DataStructures)**
-  Data structures and algorithm implementations.
-  `JavaScript`
+</div>
 
-* **[Numerical-methods](https://github.com/cleowilafe/Numerical-methods)**
-  Numerical methods for mathematical and engineering problems.
-  `MATLAB`
+<br>
 
-* **[Remote-Access-Framework](https://github.com/cleowilafe/Remote-Access-Framework)**
-  Software development and remote-access concepts.
-  `Python`
+<div align="center">
 
-* **[Scanner](https://github.com/cleowilafe/Scanner)**
-  Programming and system-level concepts.
-  `C++`
+## `LANGUAGES`
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleowilafe&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"
+  height="250"
+/>
+
+</div>
 
 ---
 
-### 📊 Statistics
+<div align="center">
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cleowilafe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleowilafe&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9">
-</p>
+## `PROJECTS`
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### [DataStructures](https://github.com/cleowilafe/DataStructures)
+
+Data structures and algorithm implementations.
+
+`JavaScript`
+
+</td>
+
+<td align="center" width="50%">
+
+### [Numerical-methods](https://github.com/cleowilafe/Numerical-methods)
+
+Numerical methods for mathematical and engineering problems.
+
+`MATLAB`
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### [Remote-Access-Framework](https://github.com/cleowilafe/Remote-Access-Framework)
+
+Software development and remote-access concepts.
+
+`Python`
+
+</td>
+
+<td align="center" width="50%">
+
+### [Scanner](https://github.com/cleowilafe/Scanner)
+
+Programming and system-level concepts.
+
+`C++`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cleowilafe&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</p>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=cleowilafe&theme=tokyo-night&hide_border=true&area=true"
+  width="90%"
+/>
+
+</div>
 
 ---
 
@@ -80,6 +120,8 @@ I use this profile to share projects and studies combining **engineering, mathem
 
 ### `ENGINEERING × MATHEMATICS × SOFTWARE`
 
-[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/cleowilafe?tab=repositories)
+<br>
+
+[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleowilafe?tab=repositories)
 
 </div>
