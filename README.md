@@ -41,12 +41,6 @@ engineering-oriented software.
 
 <div align="center">
 
-## `LANGUAGES`
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleowilafe&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"
-  height="250"
-/>
 
 </div>
 
