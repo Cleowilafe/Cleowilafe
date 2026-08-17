@@ -39,16 +39,6 @@ engineering-oriented software.
 
 <br>
 
-<div align="center">
-
-## `LANGUAGES`
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleowilafe&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"
-  height="250"
-/>
-
-</div>
 
 ---
 
@@ -103,14 +93,6 @@ Programming and system-level concepts.
 </table>
 
 </div>
-
----
-
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=cleowilafe&theme=tokyo-night&hide_border=true&area=true"
-  width="90%"
-/>
 
 </div>
 
