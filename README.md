@@ -98,24 +98,6 @@ Programming and system-level concepts.
 
 </div>
 
----
-
-<div align="center">
-
-## `GITHUB`
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=cleowilafe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  height="180"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=cleowilafe&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</div>
-
 <br>
 
 <div align="center">
